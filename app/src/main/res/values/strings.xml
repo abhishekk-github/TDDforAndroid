@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Groovy</string>
+    <string name="home_page_header">Playlists</string>
 </resources>
